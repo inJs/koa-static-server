@@ -1,0 +1,29 @@
+{
+  "name": "koa-static-server",
+  "version": "1.0.0",
+  "description": "static server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inJs/koa-static-server.git"
+  },
+  "keywords": [
+    "koa",
+    "static",
+    "server"
+  ],
+  "author": "yin.jser@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inJs/koa-static-server/issues"
+  },
+  "homepage": "https://github.com/inJs/koa-static-server#readme",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-static": "^5.0.0"
+  }
+}
